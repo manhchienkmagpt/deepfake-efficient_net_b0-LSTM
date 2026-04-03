@@ -117,7 +117,7 @@ Chạy các cell theo thứ tự từ trên xuống dưới:
 
 Model sẽ được lưu tại đường dẫn được định nghĩa trong `SAVE_PATH`:
 ```python
-SAVE_PATH = "best_efficientb4.pth"
+SAVE_PATH = "best_efficientb0.pth"
 ```
 
 ## Các Tính năng Chính
@@ -193,7 +193,7 @@ deepfake2/
 ├── deepfake_efficientnetb0_LSTM.ipynb  # Main notebook
 ├── requirements.txt                    # Python dependencies
 ├── README.md                          # Documentation (this file)
-└── best_efficientb4.pth              # Trained model (sau khi training)
+└── best_efficientb0.pth              # Trained model (sau khi training)
 ```
 
 ## References
